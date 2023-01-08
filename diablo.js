@@ -23,7 +23,7 @@ chats: {},
 }
 
 global.ownerName = 'DapaZ'
-global.ownerNumber = ["6281349277979@s.whatsapp.net"]
+global.ownerNumber = ["6283125701141@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
 wait: 'Wait Sis Please be patient',
@@ -221,7 +221,7 @@ case 'menu':
 jiren = `  *🇲🇨 Aku Adalah Bot War Dari Indonesian Yang Di buat Dapa*
  *🇲🇨 Im A Bot War From Indonesian*
 
-° Owner  : 6281349277979
+° Owner  : 6283125701141
 ° Version : 3
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ^𝗕𝗨𝗚 𝗕𝗢𝗧 𝗩𝗜𝗣^
@@ -324,20 +324,20 @@ diablobotwhatsapp.reply(jiren)
 break
 
 case 'akses':
-diablobotwhatsapp.reply(`BUY AKSES CHAT OWNER : wa.me/6281349277979`)
+diablobotwhatsapp.reply(`BUY AKSES CHAT OWNER : wa.me/6283125701141`)
 break
 case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6281349277979`)
+diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6283125701141`)
 break
 case 'script':
 diablobotwhatsapp.reply(`Ready Sc Bot Bug 100% No enc + Support Run Panel On 24 Jam
-Untuk Harga Bisa pm wa.me/6281349277979`)
+Untuk Harga Bisa pm wa.me/6283125701141`)
 case 'jasabot':
-diablobotwhatsapp.reply(`Jasa Jadi Bot No Ribet Tinggal Scan Sc bisa dariku/bawa sendiri jika minat bs pm wa.me/6281349277979`)
+diablobotwhatsapp.reply(`Jasa Jadi Bot No Ribet Tinggal Scan Sc bisa dariku/bawa sendiri jika minat bs pm wa.me/6283125701141`)
 case 'murbug':
-diablobotwhatsapp.reply(`Joij Murbug 10k Pm wa.me/6281349277979`)
+diablobotwhatsapp.reply(`Joij Murbug 10k Pm wa.me/6283125701141`)
 case 'adminbug':
-diablobotwhatsapp.reply(`Mau join admin bug?bawa dana 25k mase pm wa.me/6281349277979`)
+diablobotwhatsapp.reply(`Mau join admin bug?bawa dana 25k mase pm wa.me/6283125701141`)
 case 'restart':{
  if (!isGroup) return diablobotwhatsapp.reply(`wajib dalam grup`)
 if (!isGroupAdmins) return diablobotwhatsapp.reply(`sorry anda sepertinya bukan pemilik bot`)
